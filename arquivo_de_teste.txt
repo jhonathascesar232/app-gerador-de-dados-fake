@@ -1,0 +1,64 @@
+NOME: Kelly Boyd
+PROFISSÃO: Data processing manager
+ENDEREÇO: 694 Donna Wells Suite 515
+Tomstad, ID 96378
+PLACA: 5S 25601
+CARTÃO DE CRÉDITO: JCB 16 digit
+Melissa Robinson
+3589101399161511 07/21
+CVC: 903
+
+NOME: Cathy Martinez
+PROFISSÃO: Conservator, museum/gallery
+ENDEREÇO: 69141 Deborah Inlet Apt. 870
+Hollybury, VA 62133
+PLACA: X02 2ER
+CARTÃO DE CRÉDITO: VISA 19 digit
+John Carlson
+4207698456428071508 03/30
+CVC: 423
+
+NOME: Mariana Dias
+PROFISSÃO: Cumim
+ENDEREÇO: Favela de Ferreira, 93
+Céu Azul
+19489241 Sales das Flores / MG
+PLACA: LPX-8778
+CARTÃO DE CRÉDITO: VISA 13 digit
+Luna Jesus
+4609753513930 01/25
+CVC: 287
+
+NOME: Yuri Rodrigues
+PROFISSÃO: Zelador
+ENDEREÇO: Chácara da Mata, 939
+São Vicente
+96593423 Aragão Verde / ES
+PLACA: RDD-0186
+CARTÃO DE CRÉDITO: VISA 16 digit
+Ana Beatriz Gonçalves
+4396947751591799 08/26
+CVC: 330
+
+NOME: Ana Luiza Costa
+PROFISSÃO: Profissional de relações públicas
+ENDEREÇO: Colônia Nogueira, 9
+Solar Do Barreiro
+13991615 Campos da Praia / CE
+PLACA: SMS-0086
+CARTÃO DE CRÉDITO: Diners Club / Carte Blanche
+Maria Cecília Azevedo
+30045620870914 08/27
+CVC: 345
+
+NOME: Isis Santos
+PROFISSÃO: Lubrificador de máquinas
+ENDEREÇO: Sítio de Carvalho, 9
+Flavio Marques Lisboa
+72076-984 da Rosa das Flores / BA
+PLACA: LCT-8423
+CARTÃO DE CRÉDITO: JCB 16 digit
+Vitor Mendes
+3599246610935231 10/24
+CVC: 769
+
